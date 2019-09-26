@@ -1,0 +1,129 @@
+body{
+  background: #DFDDE2;
+  font-family: 'Nunito', sans-serif;
+}
+
+nav{
+  font-size: 20px;
+}
+
+nav li{
+  margin-right: 10px;
+}
+
+.jumbotron{
+  background-color: rgba(223, 221, 226, 0.5);
+  margin-bottom: 0px;
+}
+
+.display-4{
+  text-align: center;
+}
+
+.lead{
+  font-size: 20px;
+  color: rgb(207, 39, 10);
+  text-align: center;
+}
+
+hr{
+  border-top-color: black;
+}
+
+.first_point, .second_point{
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h6{
+  color: rgb(207, 39, 10);
+}
+
+.fas, .far{
+  font-size: 70px;
+}
+
+#main_body{
+  padding-bottom: 35px;
+  margin-bottom: 10px;
+}
+
+.culture h1, .values h1{
+  margin-top: 15px;
+  text-align: center;
+}
+
+.culture_par, .values_par{
+  margin-bottom: 15px;
+}
+.solutions_page{
+  padding-top: 15px;
+}
+
+.sol_title{
+  text-align: center;
+  margin-top: 5px;
+}
+
+.solutions{
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.solutions span{
+  padding: 5px;
+  color: red;
+  font-size: 20px;
+}
+
+.solutions_points{
+  margin-top: 5px;
+}
+
+#contact_us h1{
+  margin-top: 15px;
+  margin-bottom: 25px;
+  text-align: center;
+}
+
+#co_name{
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+#co_name p{
+  margin-bottom: 10px;
+}
+
+#address p{
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+#contact_methods p{
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+#contact_methods span{
+  font-weight: 900;
+}
+
+.about_us, .testimonials{
+  text-align: center;
+  margin-top: 15px;
+}
+
+.tests{
+  margin: 0px;
+}
+
+.tests span{
+  color: rgb(207, 39, 10);
+}
+
+footer{
+  background: #343A40;
+  color: #DFDDE2;
+}
